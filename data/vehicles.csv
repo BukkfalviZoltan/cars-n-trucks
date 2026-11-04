@@ -1,0 +1,13 @@
+type,brand,model,year,color
+truck,Iveco,S-Way,2023,silver
+car,Skoda,Octavia,2023,green
+truck,MAN,TGX,2022,black
+car,Honda,Civic,2022,black
+truck,Scania,R500,2021,blue
+car,Toyota,Corolla,2021,white
+truck,Volvo,FH16,2020,red
+car,Volkswagen,Golf,2020,gray
+truck,Mercedes-Benz,Actros,2019,white
+car,Ford,Focus,2019,blue
+truck,DAF,XF,2018,gray
+car,BMW,320i,2018,silver
