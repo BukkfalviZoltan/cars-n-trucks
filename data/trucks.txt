@@ -1,0 +1,6 @@
+truck|Volvo|FH16|2020|red
+truck|Scania|R500|2021|blue
+truck|Mercedes-Benz|Actros|2019|white
+truck|MAN|TGX|2022|black
+truck|DAF|XF|2018|gray
+truck|Iveco|S-Way|2023|silver

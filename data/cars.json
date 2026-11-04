@@ -1,0 +1,44 @@
+[
+    {
+        "type": "car",
+        "brand": "Toyota",
+        "model": "Corolla",
+        "year": 2021,
+        "color": "white"
+    },
+    {
+        "type": "car",
+        "brand": "Ford",
+        "model": "Focus",
+        "year": 2019,
+        "color": "blue"
+    },
+    {
+        "type": "car",
+        "brand": "Honda",
+        "model": "Civic",
+        "year": 2022,
+        "color": "black"
+    },
+    {
+        "type": "car",
+        "brand": "Volkswagen",
+        "model": "Golf",
+        "year": 2020,
+        "color": "gray"
+    },
+    {
+        "type": "car",
+        "brand": "BMW",
+        "model": "320i",
+        "year": 2018,
+        "color": "silver"
+    },
+    {
+        "type": "car",
+        "brand": "Skoda",
+        "model": "Octavia",
+        "year": 2023,
+        "color": "green"
+    }
+]
