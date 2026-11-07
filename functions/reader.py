@@ -111,12 +111,18 @@ def merge_vehicles(trucks, cars):
 #
 # A végeredményben tehát a legújabb autók és truckok
 # szerepeljenek legfelül, majd haladjanak a régebbiek felé.
-def get_year(vehicle):
+
+"""
+def get_year(vehicle):      # A lambdátlan verzióhoz kell
     return vehicle["year"]
+"""
 
 
 def save_vehicles(vehicles, file_path):
-    sorted_vehicles = sorted(vehicles, key=get_year, reverse=True)
+    # sorted_vehicles = sorted(vehicles, key=get_year, reverse=True) # lambdátlan verzió
+    sorted_vehicles = sorted(
+        vehicles, key=lambda vehicle: vehicle["year"], reverse=True
+    )
 
     with open(file_path, "w", encoding="utf-8", newline="") as f:
         fieldnames = ["type", "brand", "model", "year", "color"]
